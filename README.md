@@ -1,4 +1,6 @@
 # morpion
+PROJET 100% réalisé par Dilien Oeuvrard
+
 
 Le jeu du morpion !
 Jeu réalisé en 1h (oui je suis fier de moi)
